@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🛠️Currently working on :<br>Building an AI powered Job application agent that scraps the job postings from different platforms (like LinkedIn) and tailors the resume based on job descriptions.<br><br>🙋‍♂️Looking for help with :<br>Improving model performance , understanding advanced ML concepts, and experimenting with deep learning.<br><br>🤝Looking to collaborate on :<br>Intermediate to advanced level ML projects , data analysis tasks , and open source contributions.<br><br>🌱 Currently learning :<br>Machine Learning , model improvisation and tuning,  Pytorch .<br>
+🛠️Currently working on :<br>An AI powered Job application agent that scraps the job postings from different platforms (like LinkedIn) and tailors the resume based on job descriptions.<br><br>🙋‍♂️Looking for help with :<br>Improving model performance , understanding advanced ML concepts, and experimenting with deep learning.<br><br>🤝Looking to collaborate on :<br>Intermediate to advanced level ML projects , data analysis tasks , and open source contributions.<br><br>🌱 Currently learning :<br>Machine Learning , model improvisation and tuning,  Pytorch .<br>
 
 
 ## 🌐 Socials:
