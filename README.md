@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🛠️Currently working on :<br>Building an AI powered Job application agent which scraps the job postings from different platforms (like LinkedIn) and tailors the resume based on job descriptions.<br><br>🙋‍♂️Looking for help with :<br>Improving model performance , understanding advanced ML concepts, and experimenting with deep learning.<br><br>🤝Looking to collaborate on :<br>Intermediate to advanced level ML projects , data analysis tasks , and open source contributions.<br><br>🌱 Currently learning :<br>Machine Learning , model improvisation and tuning,  Pytorch .<br>
 
@@ -13,10 +13,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gopal-gupta12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopal-gupta12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gopal-gupta12&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=gopal-gupta12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
